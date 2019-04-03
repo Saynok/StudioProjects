@@ -1,0 +1,9 @@
+[submodule "DevSupJava"]
+	path = DevSupJava
+	url = https://github.com/ZeonXX/DevSupJava.git
+[submodule "DevSupAndroid"]
+	path = DevSupAndroid
+	url = https://github.com/ZeonXX/DevSupAndroid.git
+[submodule "DevSupEngineering"]
+	path = DevSupEngineering
+	url = https://github.com/ZeonXX/DevSupEngineering.git

@@ -1,1 +1,4 @@
-include ':app'
+include ':app', ':DevSupJava', ':DevSupportAndroid', ':DevSupportEngineering'
+
+project(':DevSupportAndroid').projectDir = new File('DevSupAndroid/DevSupportAndroid')
+project(':DevSupportEngineering').projectDir = new File('DevSupEngineering/DevSupportEngineering')
